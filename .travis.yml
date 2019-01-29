@@ -6,7 +6,7 @@ addons:
   sonarcloud:
     organization: "bramhi123-github"
     token:
-      secure: "b1ddfbcc72a149e9ef8de2ab1aab91f6f2ca014a"
+      secure: "2bb409d7d9c19e56a5aafa0736b0bfd71a47c40c"
 
 jdk:
   - oraclejdk8
